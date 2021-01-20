@@ -1,0 +1,4 @@
+*.css linguist-detectable=true
+*.php linguist-detectable=true
+*.codeigniter linguist-detectable=true
+*.js linguist-detectable=true
